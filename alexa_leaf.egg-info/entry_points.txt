@@ -1,0 +1,3 @@
+[console_scripts]
+alexa_leaf = alexa_leaf.alexa_leaf:main
+
